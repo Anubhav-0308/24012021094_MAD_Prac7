@@ -1,6 +1,6 @@
 # MAD Practical 7 – Person Data Management App
 
-<img width="716" height="1600" alt="WhatsApp Image 2026-10-09 at 18 41 18" src="https://github.com/user-attachments/assets/3506176f-7617-4b91-98fb-afd6e38d0810" />
+<img width="200" height="400" alt="WhatsApp Image 2026-10-09 at 18 41 18" src="https://github.com/user-attachments/assets/3506176f-7617-4b91-98fb-afd6e38d0810" />
 
 ## Overview
 This is an Android application developed in Kotlin for Mobile Application Development (MAD) Practical 7. It retrieves person records from a web API, displays them in a `RecyclerView`, and stores records locally in an SQLite database so the data can be loaded from the device.
